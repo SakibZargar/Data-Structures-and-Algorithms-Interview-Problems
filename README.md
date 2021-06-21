@@ -4,7 +4,9 @@ This repository contains Python solutions for problems from the book 'Cracking t
 
 Chapter 1: Arrays and Strings
 
-Chapter 2: Linked Lists        (Ref Videos: https://www.youtube.com/watch?v=9mHz2Yc6oRo&list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l&index=11)
+Chapter 2: Linked Lists        
+
+(Ref Videos: https://www.youtube.com/watch?v=9mHz2Yc6oRo&list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l&index=11)
 
 Chapter 3: Stacks and Queues
 
