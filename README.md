@@ -8,4 +8,6 @@ Chapter 2: Linked Lists       (Very Simple Tutorial Videos:  https://www.youtube
 
 Chapter 3: Stacks and Queues   
 
-Chapter 4: Trees and Graphs   
+Chapter 4: Trees and Graphs  
+
+Chapter 11: Sorting and Searching
