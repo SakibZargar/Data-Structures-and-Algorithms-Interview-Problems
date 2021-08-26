@@ -2,6 +2,8 @@
 
 This repository contains Python solutions for problems from the book 'Cracking the Coding Interview' by Gayle Laakmann McDowell (5th Edition). Each chaper has additional problems at the end. 
 
+Chapter 0: Algorithm Analysis & Big O Notation (Tutorial Videos: https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
 Chapter 1: Arrays and Strings  
 
 Chapter 2: Linked Lists       (Very Simple Tutorial Videos:  https://www.youtube.com/watch?v=9mHz2Yc6oRo&list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l&index=11)       
